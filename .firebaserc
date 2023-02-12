@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngfirebase-93aa6": {
+      "hosting": {
+        "NgFireBase": [
+          "ngfirebase-93aa6"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngfirebase-93aa6"
+  }
+}
